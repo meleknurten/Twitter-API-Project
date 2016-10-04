@@ -1,2 +1,2 @@
 # Twitter-API-Project
-Twitter kullanıcısının hangi saatlerde paylaşım yaptıgını sşematize eder.
+Twitter kullanıcısının hangi saatlerde paylaşım yaptıgını şematize eder.
